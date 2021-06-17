@@ -1,4 +1,4 @@
-### Hi there 👋
+### JDJNOVAK 👋
 
 <!--
 **jdjnovak/jdjnovak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Jdjnovak's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdjnovak&theme=solarized-light&show_icons=true)](https://github.com/jdjnovak/github-readme-stats)
-[![Jdjnovak's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jdjnovak&theme=solarized-light&exclude_repo=.%2Femacs.d)](https://github.com/jdjnovak/github-readme-stats)
+[![Jdjnovak's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jdjnovak&theme=solarized-light&exclude_repo=.emacs.d)](https://github.com/jdjnovak/github-readme-stats)
